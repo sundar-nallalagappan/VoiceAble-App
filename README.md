@@ -64,7 +64,10 @@ In this demo, Voiceable accurately interprets mathematical formulas, whether emb
 
 https://github.com/user-attachments/assets/7019634d-d830-4211-93b9-f092aebd458f
 
+**Use Case 4 — Identifying User Input Fields on a Page** <br>
+In this demo, the user asks whether the page contains any input fields. Voiceable analyzes the interface and responds by listing the fields that require user input, along with the expected data types, guiding users through form interactions effortlessly.
 
+https://github.com/user-attachments/assets/a88affc1-8788-4149-aedf-91a2423cffd9
 
 ---------------------------------------------------------------------------------------------------------------------------
 
