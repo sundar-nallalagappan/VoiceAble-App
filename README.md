@@ -49,10 +49,16 @@ Unlike conventional screen readers, which struggle with embedded text, images, f
 **How it works**
 Voiceable is a standalone Windows utility that runs quietly in the system tray. Simply press Ctrl + Alt + V, speak your query, and the app intelligently processes your voice command — whether it’s interpreting visuals, summarizing information, or performing quick tasks.
 
-**Use Case 1 — Interpreting Visuals for Accessibility**
+**Use Case 1 — Interpreting Visuals for Accessibility** <br>
 Traditional screen readers struggle to describe charts or visual data. In this demo, Voiceable interprets a sales comparison plot, explaining the insights through natural speech for improved accessibility.
 
 https://github.com/user-attachments/assets/1f3014b6-16ff-4f3b-9cf6-411894dc9902
+
+<br>
+**Use Case 2 — Interactive Q&A on Architecture Diagrams** <br>
+In this demo, the user asks a question about the input sources shown in an architecture diagram. Voiceable understands the query, retrieves the relevant details, and responds through its Q&A agent, providing clear, contextual insights from the visual.
+
+https://github.com/user-attachments/assets/42adde38-ab73-4941-bf4e-8bdc4f5cd52e
 
 
 
