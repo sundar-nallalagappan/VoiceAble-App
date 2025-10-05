@@ -22,13 +22,13 @@ Unlike conventional screen readers, which struggle with embedded text, images, f
 
 🔑 **Key Features**
 1) **Voice-Enabled Simplicity** – Only two hotkeys are needed to interact.
-2) **Multi-Agent AI Backend** (hosted on AWS EC2):
-  a) Supervisor Agent → understands user intent. <br>
-  b) Screen Reader Agent → reads out embedded text, images, diagrams. <br>
-  c) Summarizer Agent → condenses lengthy content into clear summaries. <br>
-  d) Q&A Agent → answers questions specific to the screen content <br>
-  e) Technical Debugger Agent → helps developers troubleshoot. <br>
-  f) General Assistant Agent → assists with everyday tasks. <br>
+2) **Multi-Agent AI Backend** (hosted on AWS EC2): <br>
+  a) **Supervisor Agent** → understands user intent. <br>
+  b) **Screen Reader Agent** → reads out embedded text, images, diagrams. <br>
+  c) **Summarizer Agent** → condenses lengthy content into clear summaries. <br>
+  d) **Q&A Agent** → answers questions specific to the screen content <br>
+  e) **Technical Debugger Agent** → helps developers troubleshoot. <br>
+  f) **General Assistant Agent** → assists with everyday tasks. <br>
 3) **Multi-Run Conversations** – Memory is captured for context across interactions.
 4) **Reasoning Powered by Leading Models** – Google Gemini & OpenAI models drive the backend intelligence.
 5) **Friendly & Low-Friction** – Designed with a vision-focused accessibility-first approach.
@@ -42,6 +42,19 @@ Unlike conventional screen readers, which struggle with embedded text, images, f
 - AI Models: Google Gemini, OpenAI GPT Models
 - Audio & TTS: Pyttsx3, Pygame Mixer, Custom TTS APIs
 - System Integration: Hotkeys, System Tray, Screenshots Capture
+
+---------------------------------------------------------------------------------------------------------------------------
+🎬 Demo
+
+**How it works**
+Voiceable is a standalone Windows utility that runs quietly in the system tray. Simply press Ctrl + Alt + V, speak your query, and the app intelligently processes your voice command — whether it’s interpreting visuals, summarizing information, or performing quick tasks.
+
+**Use Case 1 — Interpreting Visuals for Accessibility**
+Traditional screen readers struggle to describe charts or visual data. In this demo, Voiceable interprets a sales comparison plot, explaining the insights through natural speech for improved accessibility.
+
+https://github.com/user-attachments/assets/1f3014b6-16ff-4f3b-9cf6-411894dc9902
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 
