@@ -54,11 +54,15 @@ Traditional screen readers struggle to describe charts or visual data. In this d
 
 https://github.com/user-attachments/assets/1f3014b6-16ff-4f3b-9cf6-411894dc9902
 
-<br>
 **Use Case 2 — Interactive Q&A on Architecture Diagrams** <br>
 In this demo, the user asks a question about the input sources shown in an architecture diagram. Voiceable understands the query, retrieves the relevant details, and responds through its Q&A agent, providing clear, contextual insights from the visual.
 
 https://github.com/user-attachments/assets/42adde38-ab73-4941-bf4e-8bdc4f5cd52e
+
+**Use Case 3 — Reading and Explaining Mathematical Formulas** <br>
+In this demo, Voiceable accurately interprets mathematical formulas, whether embedded as text or images. The Reader Agent processes the content and clearly voices out the complete expression, making technical materials accessible to all users.
+
+https://github.com/user-attachments/assets/7019634d-d830-4211-93b9-f092aebd458f
 
 
 
